@@ -1,7 +1,10 @@
-# logit-models
-Logistic regression ML models. including Kaggle Titanic survivor prediction
+# Supervised machine learning projects
 
-### Project Overview
+
+### logit-models
+Logistic regression ML models include: 
+- Kaggle Titanic survivor prediction
+
 #### Titanic survivor prediction model:
 decision functions predict survival outcomes from the Titanic based on each passenger’s features, such as sex and age. 
 
