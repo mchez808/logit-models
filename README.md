@@ -1,8 +1,8 @@
 # Supervised machine learning projects
 
 
-### logit-models
-Logistic regression ML models include: 
+### introductory
+intro to decision tree (logic performed manually)
 - Kaggle Titanic survivor prediction
 
 #### Titanic survivor prediction model:
